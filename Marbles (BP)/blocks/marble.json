@@ -16,27 +16,27 @@
                 "item_specific_speeds": [
                     {
                         "item": "minecraft:wooden_pickaxe",
-                        "seconds_to_destroy": 2.25
+                        "destroy_speed": 2.25
                     },
                     {
                         "item": "minecraft:stone_pickaxe",
-                        "seconds_to_destroy": 1.15
+                        "destroy_speed": 1.15
                     },
                     {
                         "item": "minecraft:iron_pickaxe",
-                        "seconds_to_destroy": 0.75
+                        "destroy_speed": 0.75
                     },
                     {
                         "item": "minecraft:golden_pickaxe",
-                        "seconds_to_destroy": 0.4
+                        "destroy_speed": 0.4
                     },
                     {
                         "item": "minecraft:diamond_pickaxe",
-                        "seconds_to_destroy": 0.6
+                        "destroy_speed": 0.6
                     },
                     {
                         "item": "minecraft:netherite_pickaxe",
-                        "seconds_to_destroy": 0.5
+                        "destroy_speed": 0.5
                     }
                 ]
             },
