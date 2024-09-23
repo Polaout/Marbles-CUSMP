@@ -1,0 +1,25 @@
+{
+    "format_version": "1.21.30",
+    "cusmp:marble": {
+        "textures": {
+            "down": "marble",                                
+            "up": "marble",
+            "north": "marble",                                                        
+            "east": "marble",                                                                    
+            "south": "marble",
+            "west": "marble"
+        },                                                                      
+        "sound": "stone"                                                                          
+    },
+    "cusmp:dark_marble": {
+        "textures": {
+            "down": "dark_marble",                                
+            "up": "dark_marble",
+            "north": "dark_marble",                                                        
+            "east": "dark_marble",                                                                    
+            "south": "dark_marble",
+            "west": "dark_marble"
+        },                                                                      
+        "sound": "stone"                                                                          
+    }
+}

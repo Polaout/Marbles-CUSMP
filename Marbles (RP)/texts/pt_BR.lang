@@ -1,0 +1,4 @@
+pack.name= Mármores (CUSMP)
+
+block.cusmp:marble.name=Mármore
+block.cusmp:dark_marble.name=Mármore Escuro
