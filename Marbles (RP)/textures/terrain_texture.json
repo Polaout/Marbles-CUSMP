@@ -1,0 +1,14 @@
+{
+    "texture_name": "atlas.terrain",
+    "resource_pack_name": "wiki", 
+    "padding": 8, 
+    "num_mip_levels": 4, 
+    "texture_data": {
+        "marble": {
+            "textures": "textures/blocks/marble"
+        },
+        "dark_marble": {
+            "textures": "textures/blocks/dark_marble"
+        }
+    }
+}
