@@ -10,7 +10,7 @@
         },
         "components": {
             "minecraft:destructible_by_mining": {
-                "seconds_to_destroy": 7.5
+                "seconds_to_destroy": 15
             },
             "minecraft:display_name": "block.cusmp:dark_marble.name"
     }
