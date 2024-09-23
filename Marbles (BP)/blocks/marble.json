@@ -9,6 +9,8 @@
             }
         },
         "components": {
+            "tag:minecraft:is_pickaxe_item_destructible": {},
+            "tag:stone": {},
             "minecraft:destructible_by_mining": {
                 "seconds_to_destroy": 3
             },
