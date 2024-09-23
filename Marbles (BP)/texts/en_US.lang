@@ -1,0 +1,4 @@
+pack.name= Marbles (CUSMP)
+
+block.cusmp:marble.name=Marble
+block.cusmp:dark_marble.name=Dark Marble
