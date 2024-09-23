@@ -12,7 +12,33 @@
             "tag:minecraft:is_pickaxe_item_destructible": {},
             "tag:stone": {},
             "minecraft:destructible_by_mining": {
-                "seconds_to_destroy": 3
+                "seconds_to_destroy": 15,
+                "item_specific_speeds": [
+                    {
+                        "item": "minecraft:wooden_pickaxe",
+                        "seconds_to_destroy": 2.25
+                    },
+                    {
+                        "item": "minecraft:stone_pickaxe",
+                        "seconds_to_destroy": 1.15
+                    },
+                    {
+                        "item": "minecraft:iron_pickaxe",
+                        "seconds_to_destroy": 0.75
+                    },
+                    {
+                        "item": "minecraft:golden_pickaxe",
+                        "seconds_to_destroy": 0.4
+                    },
+                    {
+                        "item": "minecraft:diamond_pickaxe",
+                        "seconds_to_destroy": 0.6
+                    },
+                    {
+                        "item": "minecraft:netherite_pickaxe",
+                        "seconds_to_destroy": 0.5
+                    }
+                ]
             },
             "minecraft:display_name": "block.cusmp:marble.name"
     }
