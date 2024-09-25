@@ -9,9 +9,14 @@
             }
         },
         "components": {
-            "tag:minecraft:is_pickaxe_item_destructible": {},
             "minecraft:destructible_by_mining": {
-                "seconds_to_destroy": 5.5
+                "item_specific_speeds": [
+                    {
+                        "item": "minecraft:wooden_pickaxe",
+                        "destroy_speed": 6
+                    }
+                ],
+                "seconds_to_destroy": 8
             },
             "minecraft:display_name": "block.cusmp:dark_marble.name"
     }
