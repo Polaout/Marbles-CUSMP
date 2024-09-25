@@ -9,7 +9,6 @@
             }
         },
         "components": {
-            "tag:is_pickaxe_item_destructible": {},
             "minecraft:destructible_by_mining": {
                 "item_specific_speeds": [
                     {
