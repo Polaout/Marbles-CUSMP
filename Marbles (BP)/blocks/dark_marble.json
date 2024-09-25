@@ -9,11 +9,10 @@
             }
         },
         "components": {
-            "tag:is_pickaxe_item_destructible": {},
             "minecraft:destructible_by_mining": {
                 "item_specific_speeds": [
                     {
-                        "destroy_speed": 1,
+                        "destroy_speed": 0.6,
                         "item": "wooden_pickaxe"
                     },
                     {
