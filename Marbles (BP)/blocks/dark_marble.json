@@ -21,7 +21,7 @@
                         "item": "iron_pickaxe"
                     }
                 ],
-                "seconds_to_destroy": 15
+                "seconds_to_destroy": 20
             },
             "minecraft:display_name": "block.cusmp:dark_marble.name"
     }
