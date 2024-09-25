@@ -13,11 +13,11 @@
             "minecraft:destructible_by_mining": {
                 "item_specific_speeds": [
                     {
-                        "destroy_speed": 6,
+                        "destroy_speed": 1,
                         "item": "wooden_pickaxe"
                     },
                     {
-                        "destroy_speed": 12,
+                        "destroy_speed": 0.3,
                         "item": "iron_pickaxe"
                     }
                 ],
