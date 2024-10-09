@@ -1,5 +1,5 @@
 {
-    "format_version": "1.21.50",
+    "format_version": "1.21.50.20",
     "minecraft:block": {
         "description": {
             "identifier": "cusmp:dark_marble",
@@ -12,7 +12,7 @@
             "minecraft:destructible_by_mining": {
                 "item_specific_speeds": [
                     {
-                        "destroy_speed": 0.6,
+                        "destroy_speed": 0.4,
                         "item": "wooden_pickaxe"
                     },
                     {
